@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /private/
 Allow: /
 
-Sitemap: https://www.yourdomain.com/sitemap.xml
+Sitemap:https://dadesso17.github.io/sitemap.xml
